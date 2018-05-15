@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.ac.uty.gridcardview.DetailActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/abu"
+        android:layout_height="wrap_content">
+
+
+
+
+        <ImageView
+            android:id="@+id/sportsImageDetail6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:onClick="youtube"
+            app:srcCompat="@drawable/youtube"/>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:id="@+id/detaile"
+            android:background="@color/cardview_light_background"
+            android:layout_below="@id/sportsImageDetail6">
+
+
+
+            <TextView
+                android:id="@+id/informasi"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="INFORMASI"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColorHint="@color/bak"
+                android:layout_marginBottom="10dp"
+                android:textColor="@color/cardview_dark_background" />
+
+            <TextView
+                android:id="@+id/lokasi"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@array/alamat_sport"
+                android:layout_below="@+id/informasi"
+                android:layout_marginBottom="10dp"
+                android:textColor="?android:textColorSecondary" />
+            <TextView
+                android:id="@+id/harga"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@array/Harga_sport"
+                android:layout_below="@+id/lokasi"
+                android:layout_marginBottom="10dp"
+                android:textColor="?android:textColorSecondary" />
+            <TextView
+                android:id="@+id/nomor"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/harga"
+                android:text="Tidak Ada Nomor Telepon"
+                android:textColor="?android:textColorSecondary" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:id="@+id/gambar"
+            android:background="@color/cardview_light_background"
+            android:layout_below="@id/detaile">
+
+            <TextView
+                android:id="@+id/jdgambar"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GALERY"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColorHint="@color/bak"
+                android:layout_marginBottom="10dp"
+                android:textColor="@color/cardview_dark_background" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/jdgambar">
+                <HorizontalScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                    <ImageView
+                        android:id="@+id/sportsImageDetail"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:adjustViewBounds="true" />
+                    <ImageView
+                        android:id="@+id/sportsImageDetail2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:adjustViewBounds="true" />
+                    <ImageView
+                        android:id="@+id/sportsImageDetail3"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:adjustViewBounds="true" />
+                    <ImageView
+                        android:id="@+id/sportsImageDetail4"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:adjustViewBounds="true" />
+                    <ImageView
+                        android:id="@+id/sportsImageDetail5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:adjustViewBounds="true" />
+                    </LinearLayout>
+                </HorizontalScrollView>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@color/cardview_light_background"
+        android:id="@+id/relativeDetail"
+        android:layout_below="@id/gambar">
+        <TextView
+            android:id="@+id/nmDetail"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DESKRIPSI"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColorHint="@color/bak"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/cardview_dark_background" />
+        <TextView
+            android:id="@+id/Detail"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nmDetail"
+            android:text="@array/sports_detail"
+            android:textColor="?android:textColorSecondary" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="360dp"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:id="@+id/map"
+            android:background="@color/cardview_light_background"
+            android:layout_below="@id/relativeDetail">
+
+            <TextView
+                android:id="@+id/map1"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MAP"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:layout_marginBottom="-20dp"
+                android:textColorHint="@color/bak"
+                android:textColor="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/maps"
+                android:layout_marginBottom="-20dp"
+                android:onClick="pindah"
+                android:layout_below="@+id/map1"/>
+            <TextView
+                android:id="@+id/map2"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LIHAT LOKASI"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:layout_marginBottom="-20dp"
+                android:layout_marginLeft="310dp"
+                android:onClick="pindah"
+                android:textColorHint="@color/bak"
+                android:layout_below="@+id/imageView4"
+                android:textColor="@color/cardview_dark_background" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+</ScrollView>

@@ -1,0 +1,262 @@
+<resources>
+
+    <string name="app_name">Wisata Buatan Jogja</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="image_sport">
+        <item>@drawable/hobit1</item>
+        <item>@drawable/mangrove1</item>
+        <item>@drawable/jogjabay1</item>
+        <item>@drawable/lampion1</item>
+        <item>@drawable/nglangeran1</item>
+        <item>@drawable/selokan1</item>
+        <item>@drawable/sindu1</item>
+        <item>@drawable/stone1</item>
+        <item>@drawable/world1</item>
+        <item>@drawable/upside1</item>
+    </array>
+    <array name="image_sport2">
+        <item>@drawable/hobit2</item>
+        <item>@drawable/mangrove2</item>
+        <item>@drawable/jogjabay2</item>
+        <item>@drawable/lampion2</item>
+        <item>@drawable/nglangeran2</item>
+        <item>@drawable/selokan2</item>
+        <item>@drawable/sindu2</item>
+        <item>@drawable/stone2</item>
+        <item>@drawable/world2</item>
+        <item>@drawable/upside2</item>
+    </array>
+    <array name="image_sport3">
+        <item>@drawable/hobit3</item>
+        <item>@drawable/mangrove3</item>
+        <item>@drawable/jogjabay3</item>
+        <item>@drawable/lampion3</item>
+        <item>@drawable/nglangeran3</item>
+        <item>@drawable/selokan3</item>
+        <item>@drawable/sindu3</item>
+        <item>@drawable/stone3</item>
+        <item>@drawable/world3</item>
+        <item>@drawable/upside3</item>
+    </array>
+    <array name="image_sport4">
+        <item>@drawable/hobit4</item>
+        <item>@drawable/mangrove4</item>
+        <item>@drawable/jogjabay4</item>
+        <item>@drawable/lampion4</item>
+        <item>@drawable/nglangeran4</item>
+        <item>@drawable/selokan4</item>
+        <item>@drawable/sindu4</item>
+        <item>@drawable/stone4</item>
+        <item>@drawable/world4</item>
+        <item>@drawable/upside4</item>
+    </array>
+    <array name="image_sport5">
+        <item>@drawable/hobit5</item>
+        <item>@drawable/mangrove5</item>
+        <item>@drawable/jogjabay5</item>
+        <item>@drawable/lampion5</item>
+        <item>@drawable/nglangeran5</item>
+        <item>@drawable/selokan5</item>
+        <item>@drawable/sindu5</item>
+        <item>@drawable/stone5</item>
+        <item>@drawable/world5</item>
+        <item>@drawable/upside5</item>
+    </array>
+    <string-array name="sports_detail">
+        <item>Lokasi wisata rumah hobbit ini memang berada di Jl.Hutan Pinus Nganjir, Mangunan, Dlingo Bantul karena dalam hutan pinus, otomatis rumah tersebut di kerumuni oleh pepohonan yang rindang nan hijau. Dan itu tentu saja membuat hawa disana menjadi sangat sejuk dan nyaman untuk menikmati keindahan alam. Wisata rumah hobbit di bantul ini sangat cocok untuk kamu yang suka dengan foto selfie, atau kalian yang suka dengan fotografi, karena di lokasi wisata rumah hobbit bantul ini sangat banyak spot yang bagus untuk berfoto-foto.Mungkin perlu kami ingatkan bahwa kalian tidak boleh masuk ke dalam rumah hobbit itu, karena itu hanya sebuah obyek untuk menarik wisatawan saja. Namun kalian tidak usah sedih karena lokasi wisata rumah hobbit ini dekat dengan wisata Seribu Batu Songgo Langit.
+
+Untuk wisata seribu batu songgo langit sendiri saat ini masih dalam tahap pengembangan. Dan ini adalah informasi ongkos parkir, kalian harus mengeluarkan uang sebesar Rp 3.000 untuk satu motor, untuk biaya parkir mobil adalah Rp 10.000. Untuk akses jalan menuju ke wisata rumah hobbit tidak susah. Tidak ada medan yang terjal, hampir semuanya dapat di lewati dengan mudah dan nyaman.</item>
+        <item>Hutan Mangrove Kulon Progo
+Dusun Pasir Mendit, Desa Jangkaran, Kecamatan Temon, Kabupaten Kulon Progo, Yogyakarta
+        Apa menariknya Hutan Mangrove Kulon Progo?
+
+    Hutan Mangrove Kulon Progo merupakan salah satu objek wisata yang terkenal baru-baru ini. Hutan Mangrove terletak di Dusun Pasir Mendit, Desa Jangkaran, Kecamatan Temon, Kabupaten Kulon Progo, Yogyakarta. Obyek wisata ini berjarak sekitar 47 km dari titik nol, dan dapat ditempuh dalam waktu lebih kurang 2 jam.
+    Walaupun baru beberapa bulan, namun kawasan hutan mangrove ini sudah menyedot ratusan pengunjung setiap harinya. Ada empat spot objek wisata di hutan Mangrove yaitu Pantai Pasir Kadilangu, Jembatan Api-Api, Maju Lestari dan Wanatirta Pasir Mendit.
+    Area Jembatan Api-Api paling banyak menyedot wisatawan karena di sana banyak spot-spot foto yang unik dan indah. Kita juga dapat berkeliling kawasan hutan mangrove dengan naik perahu wisata.
+
+Berapa biayanya?
+
+    Untuk mencapai kawasan hutan mangrove dikenai dua kali retribusi. Yang pertama masuk wilayah hutan mangrove dikenai biaya Rp 5.000 tiap mobil. Dari tempat retribusi kita dapat memilih spot objek wisata yaitu Pantai Pasir Kadilangu, Jembatan Api-Api, Maju Lestari, dan Wanatirta Pasir Mendit. Setiap spot mempunyai tarifnya sendiri-sendiri.
+    Untuk masuk ke spot objek wisata Jembatan Api-Api dikenai biaya parkir Rp 5.000 per mobil dan Rp 4.000 per orang
+
+Pukul berapa bukanya?
+
+Hutan Mangrove Kulon Progo mulai buka pada pukul 06.00 – 18.00 WIB (penitipan kendaraan bermotor tutup pukul 18.00)
+
+Apa saja fasiltas yang ada di sana?
+
+    Kamar mandi Rp 2.000
+    Spot selfie
+    Perahu wisata Rp 5.000
+    Warung makan
+    Parkir motor Rp 2.000
+    Parkir mobil Rp 5.000
+    Parkir mini bus / truk Rp 10.000
+    Mushola
+    Ada akses jalan ke Pantai Congot
+
+Bagaimana cara menuju ke Hutan Mangrove Kulon Progo?
+
+    Dari Yogyakarta dapat langsung menuju ke Jalan Raya Wates – Purworejo
+    Ikuti petunjuk arah ke Pantai Congot sampai memasuki jalan Deandels Kecamatan Temon
+    Perjalanan dilanjutkan ke barat sampai melalui jembatan Sungai Bogowonto, setelah itu sekitar 100 meter berbelok ke selatan dan ikuti petunjuk ke kawasan hutan mangrove.
+
+Tips Wisata di Hutan Mangrove Kulon Progo?
+
+    Jika Anda berencana ke sana berangkatlah pagi-pagi sekali agar sampai di kawasan hutan mangrove cuaca masih segar dan matahari belum terik.
+    Waktu yang tepat ke hutan mangrove adalah pagi hari sebelum pukul 10.00 atau sore hari sesudah pukul 15.00 agar cahaya matahari tidak begitu terik dan foto yang dihasilkan dapat lebih bagus.
+    Pakailah sunblock agar kulit terlindung dari cahaya matahari
+    Siapkan topi atau sunglasses, selain untuk gaya, properti tersebut juga dapat melindungi kepala dan mata dari panasnya sinar matahari.
+    Pastikan baterai kamera, handphone, handycam atau action camera Anda full karena banyak spot keren yang bisa diabadikan dan jangan sampai kelewatan.
+</item>
+        <item>Dioperasikan oleh PT. Taman Wisata Jogja. Dibangun diatas tanah milik kas desa Maguwoharjo persis di utara area Stadion sepakbola maguwoharjo Depok. Dengan luas kurang lebih 7,7 hektar di menawarkan 19 jenis wahana permainan . Wahana permainan air ini di klaim sebagai  waterpark terbesar, tercanggih dan terlengkap  di Indonesia.
+        Harga Tiket Masuk Jogja Bay Waterpark :
+
+Harga tiket masuk untuk weekdays :
+
+Dewasa : Rp 90.000
+Anak – Anak ( Tingi dibawah 110cm ) : Rp 60.000
+Usia diatas 65 Tahun : Rp 60.000
+Usia bawah 2 tahun : Gratis
+
+Harga tiket masuk untuk weekend :
+
+Dewasa : Rp 100.000
+Anak – Anak ( Tingi dibawah 110cm ) : Rp 75.000
+Usia diatas 65 Tahun : Rp 75.000
+Usia bawah 2 tahun : Gratis
+
+Dapatkan potongan harga / diskon tiket masuk untuk rombongan minimal 50 Peserta. Harga ini adalah bersifat terusan / all in Anda sudah bisa menggunakan semua wahana yang ada. Jika menggunakan faslitas loker untuk menyimpan barang bawaan untuk keamanan tentunya dikenanakan tambahan biaya.
+
+Jam Buka Jogja Bay Waterpark untuk pembelian tiket :
+
+Senin – Jumat : 09.00 – 16.00
+Sedangkan Anda bisa menikmati wahana dari jam ( 09.00 – 18.00 )
+
+Sabtu – Minggu : 08.00 – 16.00
+Anda tetap bisa menikmati wahana dari jam ( 08.00 – 18.00 ) Jika ada events khusus Harbour Theatre sampai jam 22.00
+
+Alamat / peta Jogja Bay Pirates Adventure Waterpark : Jl. Utara Stadion, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55584. No Telp / Nomor Telepon :</item>
+        <item>Taman Pelangi Monjali merupakan obyek wisata baru yang menggunakan sebagian lahan milik Monumen Jogja Kembali (Monjali). Daya tarik utama obyek wisata ini adalah berbagai macam dan bentuk lampion yang unik ditambah dengan beragam arena ketangkasan dan hiburan. Konsep semacam ini sebenarnya tidak baru dan beberapa kota lain di Indonesia telah lebih dahulu sukses mengembangkan wisata semacam ini.
+
+    Taman Pelangi Monjali yang sebelumnya bernama Taman Lampion Monjali resmi dibuka akhir tahun 2011. Mengambil lokasi di area Monumen Jogja Kembali (Monjali) atas kerjasama PT. Taman Pelangi Jakarta dengan pengelola Monumen Jogja Kembali dengan kontrak dua tahun yang rencanakan akan diperpanjang. Sebelumnya telah dibuka di beberapa kota seperti Jakarta, Malang (BNS), dan Surabaya.
+Perjalanan menuju ke Taman Pelangi Monjali dari pusat Jogja cukup mudah dan banyak rambu yang menunjuk ke arah Monumen Jogja Kembali. Namun lebih mudahnya dari Tugu Jogja lurus ke utara hingga Ringroad utara karena lokasi Taman Pelangi berada di tepi jalan Ringroad utara. Gerbang masuk menuju ke Taman Pelangi sama dengan gerbang masuk Monumen Jogja Kembali dan kendaraan diparkir di dalam kawasan Taman Pelangi.
+        Kami memasuki kawasan Taman Pelangi Monjali dari gerbang pintu timur Monumen Jogja Kembali. Setelah memarkir kendaraan dan membayar tiket masuk, kami langsung disambut sebuah gerbang lampion yang berbentuk melingkar. Cukup menarik bagi kami yang pertama kali datang ke Taman Pelangi Monjali ini. Sepertinya pihak pengelola Monumen Jogja Kembali ingin memaksimalkan kawasan ini menjadi kawasan wisata setiap waktu, dimana waktu siang hari digunakan untuk wisata sejarah dan pendidikan dan di malam hari menjadi wisata hiburan dan kuliner.
+        Kemudian kami berjalan ke arah tengah, kami melihat beberapa jenis lampion berukuran besar dan kecil. Ada lampion berbentuk burung elang raksasa, miniatur Tugu Jogja, patung naga raksasa, miniatur Candi Borobudur, kereta lengkap dengan kudanya, dan masih banyak lagi. Penempatan lampion di setiap sudut membuat suasana terlihat meriah dan gemerlap.
+        Cukup disayangkan tidak ada lampu yang mengelilingi bangunan utama Monumen Jogja Kembali sehingga terlihat remang-remang karena hanya mendapat dukungan sedikit lampu. Padahal saya berharap keindahan lampu lampion juga didukung keindahan arsitektur monumen, seperti kondisi Tugu Monumen Nasional (Monas) yang terlihat bersinar dimalam hari.
+
+Tur mengelilingi Taman Pelangi berakhir dan saya kembali ke area foodcourt untuk menikmati kuliner yang ada. Jajanan kuliner yang ditawarkan sebetulnya cukup murah, namun kurangnya papan informasi mengenai harga makanan mengurangi minat pengunjung untuk menikmati makanan di kawasan ini.
+
+Secara keseluruhan penyajian lokasi dan konsepnya lumayan menarik karena pemilihan lokasi yang berada di pinggiran perkotaan yang jauh dari kebisingan dan kemacetan. Taman Pelangi Monjali cukup cocok digunakan wisata alternatif di malam hari bersama keluarga ataupun anak muda. Keberadaannya dapat sebagai obat kekecewaan masyarakat Jogja terhadap Taman Hiburan Rakyat (THR) atau dikenal dengan nama Purawisata yang kondisinya tidak terurus dan terbengkalai.
+
+Pembenahan kawasan Taman Pelangi jogja harus terus dilakukan agar wisatawan merasa nyaman dan tidak cepat bosan. Sedikit kritik mengenai penataan lampion yang tersebar di beberapa titik dan kurang rapat menjadikan kawasan ini kurang terlihat gemerlap akan pesta lampion. Solusinya dilakukan penambahan lampion dan penataan lokasi kembali agar pemandangan lampion lebih enak dipandang seperti Taman Lampion lain yang lebih sukses dahulu di beberapa kota. Tiket masuk dan tiket wahana yang dirasa cukup mahal bagi masyarakat Yogyakarta perlu menjadi evaluasi pengelola agar wisata lampion ini mampu dinikmati oleh seluruh lapisan masyarakat Yogyakarta pada khususnya. </item>
+        <item>Embung Nglanggeran adalah salah satu objek wisata yang baru di Gunung Kidul. Mengingat umur dari tempat wisata tersebut baru 3 tahun. Embung Nglanggeran diresmikan menjadi objek wisata oleh Raja Jogja yaitu Sri Sulta HB X pada 19 Februari 2013.
+         Menaiki sebuah anak tangga untuk menuju Embung Nglanggeran, pengunjung tetap bisa menikmati fasilitas yang telah disediakan. Terdapat tempat duduk yang terbuat dari cor-coran semen hingga gazebo yang siap melindungi pengunjung dari panas matahari atau air hujan.
+
+Pemandangan Embung Nglanggeran
+Embung Nglanggeran selain berdekatan dengan objek wisata Gunung Api Purba yang menawarkan pemandangan lebih tinggi tersebut tidak kalah cantik untuk berburu sunset dari tetangganya.
+        Harga dari tiket masuk Embung Nglanggeran sendiri cukup terjangkau, setiap orang hanya dikenakan biaya masuk kawasan wisata Embung Nglanggeran Gunungkidul sebesar Rp 7.000,00.</item>
+        <item>Saluran Mataram adalah kanal irigasi yang menghubungkan Kali Progo di barat dan Sungai Opak di timur. Masyarakat lebih mengenal nama populernya, Selokan Mataram. Selokan Mataram ini terletak di Daerah Istimewa Yogyakarta, Indonesia. dan menjadi bagian dari Jaringan Saluran Induk Mataram.
+        Selokan Mataram memiliki panjang 31,2 km dan dibangun pada Masa Pendudukan Jepang. Kala itu Jepang sedang menggalakkan Romusha untuk mengeksploitasi sumber daya alam Indonesia ataupun untuk membangun sarana prasarana guna kepentingan perang Jepang melawan Sekutu di Pasifik. Di tengah gencar-gencarnya Romusha, Raja Yogyakarta saat itu, Sri Sultan Hamengku Buwono IX berusaha menyelamatkan warga Yogyakarta dari kekejaman Romusha. Dengan berpikir cerdik, Dia melaporkan kepada Jepang bahwa Yogyakarta adalah daerah minus dan kering, hasil buminya hanya berupa singkong dan gaplek. Dengan laporan tersebut Sri Sultan mengusulkan kepada Jepang agar warganya diperintahkan untuk membangun sebuah selokan saluran air yang menghubungkan Kali Progo di barat dan Sungai Opak di timur. Dengan demikian lahan pertanian di Yogyakarta yang kebanyakan lahan tadah hujan dapat diairi pada musim kemarau sehingga mampu menghasilkan padi dan bisa memasok kebutuhan pangan Tentara Jepang.[butuh rujukan]
+
+Ternyata usulan Sri Sultan disetujui Jepang dan terbebaslah warga Yogyakarta untuk ikut Romusha, melainkan dialihkan untuk membangun saluran air yang sebenarnya untuk kemakmuran warga juga. menurut legenda juga diceritakan bahwa Sunan Kalijaga pernah berujar bahwa Yogyakarta bisa makmur jika Kali Progo dan Sungai Opak bersatu. Hal tersebut mungkin ada benarnya, namun kedua sungai itu bukan bersatu secara alami melainkan disatukan dengan saluran air. Kenyataannya, warga Yogyakarta sekarang lebih makmur daripada sebelum adanya Selokan Mataram dan selokan itu telah mengairi ribuan hektare lahan pertanian yang sampai saat ini masih menghijau pada saat musim kemarau.</item>
+        <item>Sindu Kusuma Edupark yang berlokasi di jl magelang km 3 Sleman Yogyakarta ini mulai dikunjungi ribuan wisatawan yang datang dari berbagai wilayah di DIY dan juga Jateng.
+
+Tempat piknik dengan konsep wahana wisata keluarga ini dilengkapi dengan 18 model permainan seperti segway, trampolin, sinema 7 D, mobil-mobilan elektrik dan ditambah arena out bond yang pastinya dapat memanjakan aktivitas liburan keluarga terutama menjelang pergantian tahun.
+
+Ditemui tim gudegnet sore ini di kantor sindu Kusuma Edupark, Yophi hudjantara, mengungkapkan, semenjak soft opening yang digelar 20 desember lalu, pengunjung telah tembus hingga 1700 orang per hari. "Namun jika dalam kondisi hujan otomatis pengunjung berkurang menjadi sekitar 400 orang," ungkapnya.
+
+Dari 18 wahana yang ada, hingga saat ini baru ada 8 wahana yang telah siap untuk dipergunakan untuk pengunjung, Yophi mengaku akan terus melakukan peningkatan layanan hingga grand opening 14 februari 2015.
+
+Menjelang tahun baru 2015, meski dalam taraf layanan yang terbatas, semenjak 31 desember 2014 - 4 januari 2015, pihaknya menargetkan ada 2000 kunjungan perhari. "Diluar kondisi hujan, kami menargetkan seperti hitungan tadi," tukasnya.
+
+Secara umum, Sindu Kusuma Edupark merupakan ajang wisata malam yang cukup terbilang baru di Yogyakarta. Berkonsep seperti Batu Night Spectacular (BNS) Jatim, tempat yang menggunakan tanah seluas 7 hektar ini dapat menjadi pilihan utama menghabiskan libur tahun baru.
+
+Untuk masuk diarea ini, pengunjung dikenakan tarif masuk Rp 15.000 plus deposit dikartu tanda masuk sebesar Rp 35.000. Sehingga total uang yang wajib disediakan oleh pengunjung sebesar Rp 50.000. Saat Tim Gudegnet berada dilokasi, banyak pengunjung yang bermain segway, air bicycle dan mobil listrik. Penasaran? boleh dicoba langsung!</item>
+        <item>Situs Stonehenge merupakan bangunan yang dibangun pada zaman perunggu dan Neolitikum. Bangunan ini berupa tumpukan batuan yang disusun seperti gawang dengan formasi melingkar. Situs peninggalan purbakala ini berada di Negara Inggris. Lha kok di Inggris? Terus yang di Jogja apaan? Yups, bangunan Stonehenge di Jogja merupakan replika dari bangunan aslinya yang berada di Negaranya Ratu Elizabeth.
+
+Bangunan ini dibuat dari beton yang dibentuk sedemikian rupa sehingga menyerupai bentuk batuan yang berada di Stonehenge Inggris. Stonehenge di Jogja ini sangat cocok bagi teman – teman yang suka berfoto atau selfie.
+        Berada di kaki Gunung Merapi, Stonehenge Jogja ini menawarkan hawa yang sejuk dengan pepohonan yang menghijau. Suasana ini tentunya membuat tempat ini sangat cocok untuk melepaskan penat dari rutinitas sehari – hari yang seringkali membuat kita stress. Oleh karena itu, stonehenge Merapi merupakan salah satu tempat yang harus dikunjungi di Jogja.
+        Untuk dapat menikmati keindahan alam dan sejuknya udara di Stonehenge Jogja ini, kita tidak perlu merogoh uang terlalu banyak. Untuk setiap pengunjung yang masuk, pihak pengelola Stonehenge Jogja hanya menetapkan tarif masuk sebesar Rp. 10.000,-. Sedangkan untuk parkir sepeda motor, tarifnya normal, yaitu Rp. 2.000,- untuk setiap kendaraan sepeda motor.</item>
+        <item>Tempat wisata yang menawarkan spot foto unik kini makin banyak bermunculan. Mengikuti perkembangan zaman di mana berfoto menjadi sebuah keharusan tiap kali mengunjungi tempat baru. Dari yang memanfaatkan keindahan alam asli, sampai yang menggabungkannya dengan latar buatan agar lebih menarik.
+
+Jogja dan sekitarnya menjadi salah satu kawasan yang tidak pernah berhenti berinovasi. Tempat-tempat wisata semacam itu terus bermunculan dan semuanya memiliki keunikan sendiri-sendiri. Kini di kawasan lereng Merapi, bahkan masuk dalam Kawasan Rawan Bencana (KRB) atau Zona Merah, berdiri sebuah tempat wisata baru bernama The Lost World Castle (TLWC).
+
+Menawarkan keindahan berupa bangunan mirip Benteng Takeshi, wahana-wahana di sini memanfaatkan batu sisa erupsi Merapi sebagai bahan bakunya. Saat kabut turun, suasana jadi makin menarik untuk latar foto. Penasaran? Yuk, intip keseruan di dalam The Lost World Castle.
+        Tanah yang hilang disapu letusan Merapi.
+The Lost World Castle, Rekomendasi Wisata Kekinian Seru di Lereng Merapiinstagram.com/thelostworldcastle
+
+The Lost World Castle terletak di Desa Kepuharjo, Kecamatan Cangkringan, Kabupaten Sleman. Kalau masih ingat letusan dahsyat Merapi tahun 2006 silam, Desa Kepuharjo sering disebut dalam acara-acara berita sebagai wilayah yang paling parah terkena dampak erupsi. Hal itu memang benar terjadi, karena erupsi Merapi 2006 menyapu bersih sebagian kawasan Kepuharjo.
+
+Melihat kedahsyatan letusan Merapi kala itu, pihak pengelola menamai spot wisata ini dengan The Lost World Castle. Artinya, kastil di kawasan yang bisa ‘hilang’ disapu bersih oleh amukan Gunung Merapi.
+Menawarkan latar foto unik yang Instagramable abis!
+The Lost World Castle, Rekomendasi Wisata Kekinian Seru di Lereng Merapiinstagram.com/thelostworldcastle
+
+Selain bangunan megah mirip Benteng Takeshi, di TLWC juga terdapat beberapa spot foto menarik. Memanfaatkan pemandangan Gunung Merapi yang berdiri megah, pengelola membangun replika sayap berukuran besar, tangga menjulang ke atas dengan gapura di ujungnya yang disebut paradise gate, serta awan buatan sebagai pijakan.
+
+Latar sayap dan paradise gate menjadi latar foto yang paling panjang antriannya. Jika pengunjung beruntung tiba di sana saat kabut turun, hasil foto makin maksimal. Seakan-akan seperti sedang terbang menembus awan, atau berjalan menuju ‘surga’.
+Tersedia juga lukisan 3D trik sebagai alternatif pilihan latar foto.</item>
+        <item>Yogyakarta kembali memiliki wahana wisata baru yang siap memanjakan wisatawan.
+
+Dengan konsep yang unik yaitu ruangan terbalik yang terinsipirasi dari salah satu film Hollywood berjudul Upside Down, Museum Upside Down World bisa menjadi pilihan wisatawan yang berlibur di wilayah Yogyakarta dan sekitarnya.
+Sejak pertama kali dibuka dan hanya didatangi 4 pengunjung kini tiap hari rata-rata ada 150 pengunjung yang datang, bahkan di masa peak season libur lebaran sempat mencapai lebih dari 300 pengunjung.
+
+Museum Upside Down World yang ada di Yogyakarta ini sendiri adalah yang kedua di Indonesia setelah sebelumnya sukses dibuka di Bali.
+
+"Kita di Bali sudah 5 bulan ini tanggapannya positif dan mereka juga menanyakan kenapa gak dibuka tempat lain, akhirnya dari berbagai pertimbangan kita buka di Jogja. Jogja ini kan kota wisata kedua setelah Bali," ujarnya.
+
+Di wahana baru tersebut ada 12 spot berbeda yang dapat digunakan sebagai ajang foto dengan cara yang unik mulai kamar tidur, dapur hingga warmindo atau warung burjo seperti yang banyak ada di Yogyakarta.
+
+Anda juga tidak perlu khawatir karena akan ada petugas yang siap membantu dan mengarahkan agar foto anda makin ciamik.
+
+Wahana tersebut buka setiap harinya sejak pukul 10.00-19.00 WIB, dengan harga tiket 40 ribu untuk pengunjung anak-anak dan 80 ribu rupiah untuk pengunjung dewasa.
+ </item>
+    </string-array>
+
+    <string-array name="sports_titles">
+        <item>Hutan Hobit</item>
+        <item>Hutan Mangrove</item>
+        <item>Pirates JogjaBay</item>
+        <item>Taman Lampion</item>
+        <item>Embung Nlangeran</item>
+        <item>Selokan Mataram</item>
+        <item>Sindu Kusuma Edu Park</item>
+        <item>Stohange</item>
+        <item>The Last World Castle</item>
+        <item>Upsidown Town</item>
+    </string-array>
+
+    <string-array name="alamat_sport">
+        <item>Alamat : Jl.Hutan Pinus ,Nganjir, Mangunan Dlingo, Bantul, DIY</item>
+        <item>Alamat : Pasir Mendit, Jangkaran, Temon, Kulon Progo, DIY</item>
+        <item>Alamat : Jl.Utara Stadion ,maguwoharjo,depok, Sleman, DIY</item>
+        <item>Alamat : Jl.Ringroad Utara ,Saringharjo, Ngaglik, Sleman, DIY</item>
+        <item>Alamat : Nglanggeran , Pathuk, gunung kidul, DIY</item>
+        <item>Alamat : Selokan Mataram, Sleman, DIY</item>
+        <item>Alamat : Jl.Jambon, Sinduadi, Mlati, Sleman, DIY</item>
+        <item>Alamat : Kepuharjo, Cangkringan, Sleman, DIY</item>
+        <item>Alamat : Kepuharjo, Cangkringan, Sleman, DIY</item>
+        <item>Alamat : Jl.Ringroad Utara, Maguwoharjo, Depok, Sleman, DIY</item>
+    </string-array>
+
+    <string-array name="Harga_sport">
+        <item>Harga Parkir : Mobil = Rp 10.000, Motor = Rp 3.000</item>
+        <item>Harga Parkir : Mobil = Rp 5.000, Motor = Rp 2.000</item>
+        <item>Harga Masuk : Rp 60.000 - 90.000</item>
+        <item>Harga Masuk : Rp 15.00 - 25.000</item>
+        <item>Harga Masuk Rp 7.000</item>
+        <item>Harga Masuk : Gratis</item>
+        <item>Harga Masuk : Rp 50.000</item>
+        <item>Harga Parkir : Mobil = Rp 10.000, Motor = Rp 2.000</item>
+        <item>Harga Masuk : Rp 80.000</item>
+        <item>Harga Masuk : Rp 80.000</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
